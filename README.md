@@ -42,10 +42,12 @@ Key questions addressed:
 ## Tools & Technologies
 
 - Power BI
+- Power Query
 - DAX
 - Data Modelling
 - Business Intelligence
 - Data Visualization
+  
 
 ## Repository Contents
 
