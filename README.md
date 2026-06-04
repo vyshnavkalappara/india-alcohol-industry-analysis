@@ -1,12 +1,14 @@
 # India Alcohol Industry Analysis
 
-Interactive analytical dashboard examining the interplay between economic performance, environmental impact, and consumer behaviour across India's alcohol beverage industry from 2018–2030.
+An interactive sustainability analytics and carbon accounting project applying cradle-to-grave system boundaries and IPCC Tier 2 methodology to assess greenhouse gas emissions, carbon intensity, economic contribution, and consumption patterns across India’s alcohol beverage industry between 2018 and 2030.
 
 ## Project Overview
 
-This project explores the relationship between consumption patterns, revenue generation, emissions, and carbon intensity across major alcohol beverage categories in India.
+## Project Overview
 
-Using Power BI and DAX, the dashboard was designed to investigate how economic contribution and environmental burden vary across beverage segments over time.
+This project evaluates the environmental footprint and sustainability performance of 15 alcoholic beverage categories in India between 2018 and 2030. Using a cradle-to-grave system boundary and IPCC Tier 2 emissions estimation methodology, the analysis integrates beverage consumption data, industry revenue, population statistics, and beverage-specific emission factors to quantify greenhouse gas emissions and carbon intensity.
+
+The project estimates Scope 1, Scope 2, and Scope 3 emissions, carbon intensity of economic output, per-capita consumption, and per-capita emissions while examining the relationship between economic contribution and environmental impact across beverage categories. The analytical model was developed using Power BI, data modelling, and custom DAX measures to enable interactive exploration of sustainability and emissions performance trends.
 
 ## Analytical Framework
 
@@ -41,6 +43,7 @@ Key questions addressed:
 
 ## Tools & Technologies
 
+- Excel
 - Power BI
 - Power Query
 - DAX
