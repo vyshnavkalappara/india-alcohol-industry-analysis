@@ -1,4 +1,4 @@
-# India Alcohol Industry Analysis
+# India Alcohol Industry Sustainability & Carbon Analytics
 
 An interactive sustainability analytics and carbon accounting project applying cradle-to-grave system boundaries and IPCC Tier 2 methodology to assess greenhouse gas emissions, carbon intensity, economic contribution, and consumption patterns across India’s alcohol beverage industry between 2018 and 2030.
 
