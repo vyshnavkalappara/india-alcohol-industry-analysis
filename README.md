@@ -52,9 +52,8 @@ Key questions addressed:
 
 ## Repository Contents
 
-- alcohol dashboard.pbix – Interactive Power BI dashboard
+- India Alcohol Industry Sustainability & Carbon Analytics.pbix – Interactive Power BI dashboard
 - Dashboard screenshots
-- Project documentation
 
 ## Key Insight
 
